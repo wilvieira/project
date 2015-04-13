@@ -1,2 +1,2 @@
 #Project
-It's only a test challenge from cheesecake labs
+It's only a test challenge for cheesecake labs
